@@ -5,20 +5,20 @@
 **受験時に必要な基礎知識のみならず、参考になる書籍やリンク類もここへまとめて、<br>
 自分の学習のためだけではなく、今後受ける人の参考になるものとして作っていこう**と思います^^
 
-基本情報技術者試験公式ページ: 
-https://www.ipa.go.jp/shiken/kubun/fe.html　
+基本情報技術者試験公式ページ:
+<https://www.ipa.go.jp/shiken/kubun/fe.html>
 
 <a href="https://www.ipa.go.jp/shiken/kubun/fe.html">
 <img width="731" alt="スクリーンショット 2024-04-20 13 09 30" src="https://github.com/AiriNarita/FE_Examination/assets/119647023/8d1d7f3f-5482-4068-a7e8-0489cea385be">
 </a>
 
 公式リンク
+
 - [試験要綱・シラバス など](https://www.ipa.go.jp/shiken/syllabus/gaiyou.html)
 - [サンプル問題](https://www.ipa.go.jp/shiken/syllabus/henkou/2022/20220425.html)
 - [公開問題](https://www.ipa.go.jp/shiken/mondai-kaiotu/sg_fe/koukai/index.html)
 
 ※ 他公式以外の参考教材やわかりやすページ、問題集はこのリポジトリの別項目記載
-
 
 ## 私の考える、基本情報試験をうける意味
 
@@ -27,7 +27,6 @@ https://www.ipa.go.jp/shiken/kubun/fe.html　
 > 情報処理技術者試験は、「情報処理の促進に関する法律」に基づき経済産業省が、情報処理技術者としての「知識・技能」が一定以上の水準であることを認定している国家試験です。<br>
 > 情報システムを構築・運用する「技術者」から情報システムを利用する「エンドユーザ（利用者）」まで、ITに関係するすべての人に活用いただける試験として実施しています。
 > 特定の製品やソフトウェアに関する試験ではなく、**情報技術の背景として知るべき原理や基礎となる知識・技能について、幅広く総合的に評価**しています。
-
 
 直接的にコーディングのスキルを向上させるものではないと思うが、<br>
 私のように**専門に学んできた人間ではない人が、基礎知識について学び得るために有用な試験**だと、考えます。<br>
