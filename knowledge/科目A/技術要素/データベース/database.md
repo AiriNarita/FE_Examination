@@ -35,6 +35,7 @@
 
 > - [IT用語辞典](https://e-words.jp/w/%E7%AC%AC1%E6%AD%A3%E8%A6%8F%E5%BD%A2.html)
 >
+![](../../../pic/db.png)
 
 - **関係従属** (functional dependency)とは：<br>
 **リレーショナルデータベース（RDB）の表で、
@@ -45,6 +46,22 @@
 ある属性が複数の候補キーのいずれかに関数従属している状態のこと。
 
 ## 排他制御
+
+### 楽観ロック (Optimistic Locking)
+
+**データそのものに対してロックは行わずに、
+更新対象のデータが、データ取得時と同じ状態であることを確認してから更新**することで、
+データの整合性を保証する手法。
+
+<img width="1060" alt="スクリーンショット 2024-04-11 0 32 36" src="https://github.com/AiriNarita/DevConnect/assets/119647023/b50eac9d-0b5d-4491-bfa6-3956bb1265f9">
+
+### 悲観ロック (Pessimistic Locking)
+
+更新対象のデータを取得する際に(selectの時点で)ロックをかけることことで、
+他のトランザクションから更新されないようにする手法。
+<img width="811" alt="スクリーンショット 2024-04-12 0 04 46" src="https://github.com/AiriNarita/DevConnect/assets/119647023/fa9a69e0-85fb-4eae-9523-b077403f31b2">
+
+`select ... for update;`
 
 ## 障害管理
 
